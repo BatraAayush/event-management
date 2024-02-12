@@ -1,0 +1,22 @@
+.volunteer-details-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.buttons-container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.volunteer-detail {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
